@@ -21,6 +21,7 @@ TAB
 DELAY 500
 ENTER
 
+REM # Deletes primary language (as long as they only had one other langauge)
 DELAY 500
 SHIFT TAB
 DELAY 500
@@ -30,6 +31,7 @@ SHIFT TAB
 DELAY 500
 ENTER
 
+Closes out of settings, has both ALT and CTRL just incase someone has changed their keybinds
 DELAY 100
 CTRL W
 DELAY 50
